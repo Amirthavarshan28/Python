@@ -1,0 +1,8 @@
+name=input("enter your family:")
+father_name=input("enter your father name:")
+mother_name=input("enter your mother name:")
+sister_name=input("enter your sister name:")
+print(name)
+print(father_name)
+print(mother_name)
+print(sister_name)

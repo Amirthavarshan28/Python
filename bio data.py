@@ -1,0 +1,7 @@
+print("I am Amirthavarshan")
+print("my age is 23")
+print("date of birth is 28-06-2002")
+print("I have completed my MSC Computer science")
+print(" my native place is T.vadipatti")
+print(" father name is mahendran")
+print(" mother name is bama")
